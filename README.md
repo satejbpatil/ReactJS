@@ -73,7 +73,8 @@ npm install react
 npm install react-dom
 ```
 
-![Screenshot 2024-01-14 224545](https://github.com/satejbpatil/ReactJS/assets/112341637/ef6c9e07-9f91-4969-90db-03e187c18bf4)
+![Screenshot 2024-01-14 224545](https://github.com/satejbpatil/ReactJS/assets/112341637/9c3388fa-12b3-47f9-af43-a46a01577165)
+
 
 The `npx parcel index.html` command is a shortcut to start a development server for your project using Parcel, a fast and zero-configuration web application bundler. This command specifically tells Parcel to bundle and serve your project starting from the index.html file.
 
